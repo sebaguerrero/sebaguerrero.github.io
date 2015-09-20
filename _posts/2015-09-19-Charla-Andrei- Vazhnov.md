@@ -47,7 +47,7 @@ Ejemplos:
 
 ![placeholder](https://capitaldisruptivo.files.wordpress.com/2011/09/overshoot.jpg)
 
-Muchas veces seguirle el paso al continuo avance de la tecnología, implica invertir en un producto que compita directamente con uno propio, que atente contra la rentabilidad de la empresa. Como dice Andrei, este dilema no tiene solución. Sin embargo, empresas como Amazon con un CEO sólido son capaces de superarlo.
+Muchas veces seguirle el paso al continuo avance de la tecnología implica invertir en un producto que compita directamente con uno propio, que atente contra la rentabilidad de la empresa y son pocos los que tienen el coraje de hacer esto. Como dice Andrei, este dilema no tiene solución. Sin embargo, empresas como Amazon con un CEO sólido son capaces de superarlo.
 
 **Lectura Recomendada:**
 [Artículo sobre Microsoft - Lost Decade](http://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer)
