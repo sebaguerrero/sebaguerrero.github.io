@@ -55,3 +55,7 @@ Muchas veces seguirle el paso al continuo avance de la tecnología implica inver
 ### Reflexión
 
 Es muy importante estar atento a las oportunidades que se presentan en el día a día ya que en cualquier momento puede haber un catalizador de una gran idea. Esta idea no tiene por que ser algo totalmente nuevo, que algo exista no es razón para descartarla. La innovación no es tan solo una idea sino que hay varios factores involucrados a tener en cuenta como tecnologías emergentes, costos involucrados que van a permitir llegar a una expectativa base. Creo que lo más importante que me llevo es estar conciente de lo que está pasando a mi alrededor, desarrollar la capacidad de poder detectar oportunidades potenciales sin aferrarme a la forma de hacer las cosas tal cual se hacen ahora.
+
+Por último dejo un video de una charla de Andrei Vazhnov en TEDxRiodelaPlata
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvKZhHGN1OA" frameborder="0" allowfullscreen></iframe>
