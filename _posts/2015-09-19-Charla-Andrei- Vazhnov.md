@@ -3,27 +3,27 @@ layout: post
 title: Innovaciones Disruptivas
 ---
 
-La clase del **16/9/15** nos visitó en clase **Andrei Vazhnov**, actualmente un profesor en la Universidad ORT de la materia **Innovación Disruptiva**, que demostró ser un gran conocedor precisamente de como se ha manifestado la innovación a lo largo de la historia y el por que de la disrupción que genera.
+La clase del **16/9/15** nos visitó **Andrei Vazhnov**, actualmente un profesor en la Universidad ORT de la materia **Innovación Disruptiva**, que demostró ser un entendido precisamente de como se ha manifestado la innovación en varios casos a lo largo de la historia y acerca de la disrupción que ha generado.
 
-Para transimitirnos algunos conceptos importantes de innovación, Andrei se apoyó en varios ejemplos tales como la digitalización de la música, digitalización de las fotos, streaming the películas, haciendo especial énfasis en la **Impresión 3D**.
+Para transimitirnos algunos conceptos importantes de innovación, Andrei se apoyó en varios ejemplos tales como la digitalización de la música, de fotos, streaming the películas, etc, haciendo especial énfasis en la **Impresión 3D**.
 
-No me voy a focalizar en los detalles técnicos o las aplicaciones de la impresión 3D a los cuales se refirió durante la charla, que por más interesante que sean, lo importante es saber como logró transformarse hoy en día en una tecnología de gran trascendencia.
+No me voy a focalizar en los detalles técnicos o las aplicaciones de la impresión 3D a los cuales se refirió durante la charla, que por más interesante que sean, me parece más importante plasmar como logró transformarse hoy en día en una tecnología de gran trascendencia.
 
-La impresión 3D surge en los años 80 cuando estaba el apogeo de la guerra de las galaxias y asi como tendremos que esperar varios años para los viajes interplanetarios sean algo cotidiano, también hubo que esperar para que la impresión 3D comenzara a convertirse en algo más accesible y se pudieran realizar impresiones tales como la de este emblema de la saga.
+La impresión 3D surge en la primer década de los años 80, durante el apogeo de la guerra de las galaxias para ubicarnos mejor en el tiempo. Así como tendremos que esperar varios años para que los viajes interplanetarios sean algo cotidiano, también tomó sus varios años para que la impresión 3D comenzara a convertirse en algo más accesible y se pudieran realizar impresiones tales como la de este emblema de la saga.
 
 ![placeholder](http://www.yama-designing.com/wp-content/uploads/2014/01/MF-1000X650.jpg)
 
 > Las innovaciones grandes no se dan cuando algo se inventa.
 
-La impresión 3D se ha reinventado desde los años 80s varias veces y los costos fueron un factor limitante como por ejemplo de las resinas para construir los modelos. En un principio los usuarios eran empresas grandes como las automotrices o espaciales. El videocassette es otro ejemplo de una innovación que tardo 10 años en masificarse.
+La impresión 3D se ha reinventado desde los años 80 varias veces y los costos han sido un factor limitante como por ejemplo de las resinas para construir los modelos. En un principio los usuarios eran empresas grandes como las automotrices o espaciales. El videocassette es otro ejemplo de una innovación que tardó 10 años en masificarse.
 
-Asi como evolucionan estos materiales, o las computadoras encargadas de procesar los datos para generar estos modelos a partir de su representación digital, también aparecen otras tecnologías disruptivas que generan un gran impacto en un montón de industrias como lo fue el caso de la **Internet**.
+Asi como evolucionan los materiales, o las computadoras encargadas de procesar los datos para generar las impresiones a partir de su representación digital, también aparecen otras tecnologías disruptivas que generan un gran impacto en un montón de industrias como lo fue el caso de la **Internet**.
 
 ![placeholder](http://www.needatechguy.com/images/Internet.jpg)
 
 La internet permitió algo importantisimo que es la capacidad de poder compartir diseños, de mandar objetos físicos de manera digital, concepto al cual se refirió como una arista de algo mucho más grande, la **Distribución Digital**. 
 
-Otros ejemplos interesantes de innovaciones grandes no particularmente nuevas son Polaroid y Netflix. Polaroid surge cuando su fundador le saca una foto a su hija y ella le pide para ver la foto en ese instante. Netflix surge de la molestia del fundador de tener que pagar las multas de los videoclubes por retrasos en la devolución de las pelíclas.
+Algunos ejemplos interesantes de innovaciones grandes no particularmente nuevas son Polaroid y Netflix. Polaroid surge cuando el futuro inventor de la revolucionaria camara, Edwin Land, le saca una foto a su hija y ella le pide para ver la foto en ese mismo instante. Netflix nace del descontento de Reed Hastings, uno de los futuros fundadores de Netflix, por tener que pagar las multas del videoclub a raíz de los retrasos en la devolución de las películas.
 
 > La innovacion no es uniforme
 
@@ -31,7 +31,7 @@ Muy relacionado con el concepto anterior, lo importante a destacar aquí es que 
 
 > Bajan costos -> Aumenta demanda
 
-Como en el caso de la impresión 3D, ha sucedido en incontables otros como la invención del tocadisco en los años 20s y la fotografía digital. Cuando la tecnología se hace más accesible entonces surgen potenciales negocios y aparecen muchos competidores. Varios de estos ejemplos tuvieron como protagonistas empresas que se crearon (Ej. Netflix) y empresas que se destruyeron (Ej. kodak). 
+Como en el caso de la impresión 3D, ha sucedido en incontables otros como la invención del tocadisco en los años 20s y la fotografía digital. Cuando la tecnología se hace más accesible entonces surgen potenciales negocios y aparecen un número grande de competidores. Varios de estos ejemplos han tenido como protagonistas empresas que se crearon (Ej. Netflix) y empresas que se destruyeron (Ej. kodak). 
 
 > Dilema Innovador
 
@@ -47,14 +47,14 @@ Ejemplos:
 
 ![placeholder](https://capitaldisruptivo.files.wordpress.com/2011/09/overshoot.jpg)
 
-Muchas veces seguirle el paso al continuo avance de la tecnología implica invertir en un producto que compita directamente con uno propio, que atente contra la rentabilidad de la empresa y son pocos los que tienen el coraje de hacer esto. Como dice Andrei, este dilema no tiene solución. Sin embargo, empresas como Amazon con un CEO sólido son capaces de superarlo.
+Muchas veces seguirle el paso al continuo avance de la tecnología implica invertir en un producto que compita directamente con uno propio, que atente contra la rentabilidad de la empresa y son pocos los que tienen el coraje de hacer esto. Como dice Andrei, este dilema no tiene solución. Sin embargo, empresas como Amazon con un CEO sólido, son capaces de superarlo.
 
 **Lectura Recomendada:**
 [Artículo sobre Microsoft - Lost Decade](http://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer)
 
 ### Reflexión
 
-Es muy importante estar atento a las oportunidades que se presentan en el día a día ya que en cualquier momento puede haber un catalizador de una gran idea. Esta idea no tiene por que ser algo totalmente nuevo, que algo exista no es razón para descartarla. La innovación no es tan solo una idea sino que hay varios factores involucrados a tener en cuenta como tecnologías emergentes, costos involucrados que van a permitir llegar a una expectativa base. Creo que lo más importante que me llevo es estar conciente de lo que está pasando a mi alrededor, desarrollar la capacidad de poder detectar oportunidades potenciales sin aferrarme a la forma de hacer las cosas tal cual se hacen ahora.
+Las oportunidades para innovar se presentan muchas veces en el día a día, en cualquier momento puede haber un catalizador de una gran idea y depende de nosotros saber detectar estas oportunidades. Esta idea no tiene por que ser algo totalmente nuevo, que algo exista no es razón para descartarla. La innovación no depende solo de una idea, claramente hay un proceso de desarrollo en el medio, pero además depende de otros factores como tecnologías emergentes, costos involucrados, etc, que van a tener un efecto positivo o negativo. Me quedo principalmente con la importancia de estar conciente de lo que está pasando a mi alrededor, desarrollar la capacidad de poder detectar oportunidades potenciales sin aferrarme a la forma de hacer las cosas tal cual se hacen ahora.
 
 Por último dejo un video de una charla de Andrei Vazhnov en TEDxRiodelaPlata
 
