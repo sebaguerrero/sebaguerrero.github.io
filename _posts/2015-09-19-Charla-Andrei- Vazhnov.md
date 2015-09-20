@@ -7,7 +7,7 @@ La clase del **16/9/15** nos visitó en clase **Andrei Vazhnov**, actualmente un
 
 Para transimitirnos algunos conceptos importantes de innovación, Andrei se apoyó en varios ejemplos tales como la digitalización de la música, digitalización de las fotos, streaming the películas, haciendo especial énfasis en la **Impresión 3D**.
 
-No me voy a focalizar en los detalles técnicos de la impresión 3D a los cuales se refirió durante la charla, que por más interesante que sean, lo importante es saber como logró transformarse hoy en día en una tecnología de gran trascendencia.
+No me voy a focalizar en los detalles técnicos o las aplicaciones de la impresión 3D a los cuales se refirió durante la charla, que por más interesante que sean, lo importante es saber como logró transformarse hoy en día en una tecnología de gran trascendencia.
 
 La impresión 3D surge en los años 80 cuando estaba el apogeo de la guerra de las galaxias y asi como tendremos que esperar varios años para los viajes interplanetarios sean algo cotidiano, también hubo que esperar para que la impresión 3D comenzara a convertirse en algo más accesible y se pudieran realizar impresiones tales como la de este emblema de la saga.
 
