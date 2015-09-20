@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Blog Innovación
+tagline:             Sebastián Guerrero
 url:                 http://getpoole.com
 paginate:            5
 baseurl:             ""
