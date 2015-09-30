@@ -56,4 +56,4 @@ Las preguntas elegidas en el punto 4 contienen preguntas abiertas y cerradas. Cr
 
 Creo que el objetivo principal de esta práctica es llegar a una o un pequeño conjunto de preguntas o desafíos que van servir como guía en la búsqueda de una o la mejor solución al problema.
 
-Por lo tanto, no dejes de preguntar!
+No dejes de preguntar!
