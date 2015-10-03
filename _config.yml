@@ -10,6 +10,9 @@ tagline:             Sebastián Guerrero
 url:                 http://getpoole.com
 paginate:            5
 baseurl:             ""
+email: sebaguerrerodeleon@gmail.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Assets
 #
@@ -18,13 +21,4 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
