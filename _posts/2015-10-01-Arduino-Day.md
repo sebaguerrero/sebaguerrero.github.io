@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arduino Day
+comments: true
 ---
 
 La clase del **30/9/15** fue una clase de experimentación con la tecnología Arduino. Ilan Cohn, un estudiante de Universidad ORT, nos mostró brevemente el funcionamiento de las mismas y nos pusimos a experimentar con nuestros equipos. 
