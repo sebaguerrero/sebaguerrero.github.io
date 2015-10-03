@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Preguntas?
+comments: true
 ---
 
 Al comienzo de la clase correspondiente a la fecha **9/9/15** hicimos un recopilado de algunas de las charlas de la JEFI 2015. 

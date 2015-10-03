@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Innovaciones Disruptivas
+comments: true
 ---
 
 La clase del **16/9/15** nos visitó **Andrei Vazhnov**, actualmente un profesor en la Universidad ORT de la materia **Innovación Disruptiva**, que demostró ser un entendido precisamente de como se ha manifestado la innovación en varios casos a lo largo de la historia y acerca de la disrupción que ha generado.
