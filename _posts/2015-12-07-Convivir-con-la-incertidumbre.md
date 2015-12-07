@@ -20,7 +20,7 @@ Esta tecnología es bastante nueva, recién a principios de 2014 se empezaron a 
 
 Hay un artículo en el grupo que habla acerca de que la revolución no viene a partir de la creación de la tecnología sino que parte de la democratización de la tecnología.
 
-http://techcrunch.com/2012/10/09/wireds-chris-anderson-todays-maker-movement-is-the-new-industrial-revolution-tctv
+<http://techcrunch.com/2012/10/09/wireds-chris-anderson-todays-maker-movement-is-the-new-industrial-revolution-tctv>
 
 Esto se cumple para smartphones donde las personas pueden crear aplicaciones, arduinos donde fácilmente se puede programar hardware y para varias otras.
 
@@ -32,9 +32,9 @@ Todavía no hay una comunidad muy fuerte y realmente se siente esto. Cuando habl
 
 También hay nuevos dispositivos en camino utilizando este tipo de tecnologías y mejores que los que hay ahora.
 
-http://www.engadget.com/2015/08/18/google-intel-realsense-tango
+<http://www.engadget.com/2015/08/18/google-intel-realsense-tango>
 
-http://www.engadget.com/2015/05/29/google-qualcomm-project-tango-phone
+<http://www.engadget.com/2015/05/29/google-qualcomm-project-tango-phone>
 
 La visión de Project Tango es llegar a integrar esta tecnología a dispositivos móviles "corrientes" y destinado al público en general.
 
@@ -42,13 +42,13 @@ La innovación creo que no viene por el lado de ser una tecnología nueva, estas
 
 Para terminar dejo estos links
 
-http://www.technologyreview.com/emtech/digital/15/video/watch/magic-leap-virtual-reality
+<http://www.technologyreview.com/emtech/digital/15/video/watch/magic-leap-virtual-reality>
 
-http://www.technologyreview.com/featuredstory/534971/magic-leap
+<http://www.technologyreview.com/featuredstory/534971/magic-leap>
 
-http://www.businessinsider.com.au/magic-leap-raising-1-billion-2015-10
+<http://www.businessinsider.com.au/magic-leap-raising-1-billion-2015-10>
 
-http://www.theverge.com/2015/10/20/9579167/magic-leap-manufacturing
+<http://www.theverge.com/2015/10/20/9579167/magic-leap-manufacturing>
 
 Magic Leap es una empresa que ha tenido inversiones gigantescas y al parecer está desarrollando lo que se piensa que va ser una tecnología disruptiva en el campo de realidad virtual/aumentada permitiendo ver objetos virtuales en la realidad.
 
