@@ -14,13 +14,13 @@ Los siguientes videos explican muy bien en que consiste la tecnología, aplicaci
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zARFvYrvkeQ" frameborder="0" allowfullscreen></iframe>
 
-[Project Tango - Sitio Oficial](https://www.google.com/atap/project-tango/ )
+[Project Tango - Sitio Oficial](https://www.google.com/atap/project-tango/)
 
 Esta tecnología es bastante nueva, recién a principios de 2014 se empezaron a distribuir los primeros smartphones y luego a fines del 2014 las primeras tablets.
 
 Hay un artículo en el grupo que habla acerca de que la revolución no viene a partir de la creación de la tecnología sino que parte de la democratización de la tecnología.
 
-<a href="http://techcrunch.com/2012/10/09/wireds-chris-anderson-todays-maker-movement-is-the-new-industrial-revolution-tctv/"></a>
+[http://techcrunch.com/2012/10/09/wireds-chris-anderson-todays-maker-movement-is-the-new-industrial-revolution-tctv/]
 
 Esto se cumple para smartphones donde las personas pueden crear aplicaciones, arduinos donde fácilmente se puede programar hardware y para varias otras.
 
@@ -32,9 +32,9 @@ Todavía no hay una comunidad muy fuerte y realmente se siente esto. Cuando habl
 
 También hay nuevos dispositivos en camino utilizando este tipo de tecnologías y mejores que los que hay ahora.
 
-<a href="http://www.engadget.com/2015/08/18/google-intel-realsense-tango/"></a>
+[http://www.engadget.com/2015/08/18/google-intel-realsense-tango/]
 
-<a href="http://www.engadget.com/2015/05/29/google-qualcomm-project-tango-phone/"></a>
+[http://www.engadget.com/2015/05/29/google-qualcomm-project-tango-phone/]
 
 La visión de Project Tango es llegar a integrar esta tecnología a dispositivos móviles "corrientes" y destinado al público en general.
 
@@ -42,13 +42,13 @@ La innovación creo que no viene por el lado de ser una tecnología nueva, estas
 
 Para terminar dejo estos links
 
-<a href="http://www.technologyreview.com/emtech/digital/15/video/watch/magic-leap-virtual-reality/"></a>
+[http://www.technologyreview.com/emtech/digital/15/video/watch/magic-leap-virtual-reality/]
 
-<a href="http://www.technologyreview.com/featuredstory/534971/magic-leap/"></a>
+[http://www.technologyreview.com/featuredstory/534971/magic-leap/]
 
-<a href="http://www.businessinsider.com.au/magic-leap-raising-1-billion-2015-10/"></a>
+[http://www.businessinsider.com.au/magic-leap-raising-1-billion-2015-10/]
 
-<a href="http://www.theverge.com/2015/10/20/9579167/magic-leap-manufacturing/"></a>
+[http://www.theverge.com/2015/10/20/9579167/magic-leap-manufacturing/]
 
 Magic Leap es una empresa que ha tenido inversiones gigantescas y al parecer está desarrollando lo que se piensa que va ser una tecnología disruptiva en el campo de realidad virtual/aumentada permitiendo ver objetos virtuales en la realidad.
 
